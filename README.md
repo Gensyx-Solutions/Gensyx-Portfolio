@@ -1,5 +1,7 @@
 # GenSyx Solutions
 
+![Owner](https://github.com/Gensyx-Solutions.png?size=120)
+
 We provide Quality Software and Website solutions tailored to your needs.
 
 ## 🚀 Our Services
@@ -24,6 +26,6 @@ Thanks to these amazing people for their contributions:
 | Name | GitHub Profile |
 |------|----------------|
 | GenSyx Solutions | [@Gensyx-Solutions](https://github.com/Gensyx-Solutions) |
-| [Rajapandiyan S] | [@username](https://github.com/rajapandiyans) |
+| [Your Contributor's Name] | [@username](https://github.com/username) |
 
 > Add more contributors by editing this table.
