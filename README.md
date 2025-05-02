@@ -25,6 +25,5 @@ Thanks to these amazing people for their contributions:
 
 | Name | GitHub Profile |
 |------|----------------|
-| GenSyx Solutions | [@Gensyx-Solutions](https://github.com/Gensyx-Solutions) |
-| [Rajapandiyan S] | [@rajapandiyans](https://github.com/rajapandiyans) |
-| [Salman Barick M ] | [@Salman-06](https://github.com/Salman-06) |
+| Rajapandiyan S | [@rajapandiyans](https://github.com/rajapandiyans) |
+| Salman Barick M | [@Salman-06](https://github.com/Salman-06) |
