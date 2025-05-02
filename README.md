@@ -24,6 +24,6 @@ Thanks to these amazing people for their contributions:
 | Name | GitHub Profile |
 |------|----------------|
 | GenSyx Solutions | [@Gensyx-Solutions](https://github.com/Gensyx-Solutions) |
-| [Your Contributor's Name] | [@username](https://github.com/username) |
+| [Rajapandiyan S] | [@username](https://github.com/rajapandiyans) |
 
 > Add more contributors by editing this table.
